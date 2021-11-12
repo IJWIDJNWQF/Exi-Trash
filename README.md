@@ -14,9 +14,9 @@ Section:NewToggle("ลองเองExiHub "ลองเองExiHub.Info"
     end
 end)
 
-local Tab = Window:NewTab("Teleport")
-local Section = Tab:NewSection("Teleport")
+local Tab = Window:NewTab("Main")
+local Section = Tab:NewSection("Main")
 
-Section:NewButton(ใช้ยังไม่ได้ExiHub", "ใช้ยังไม่ได้ExiHub.Info", function()
-    print("Clicked")
+Section:NewButton(Noclip ExiHub", "Noclip ExiHub.Info", function()
+    https://pastebin.com/fxxDgezm
 end)
