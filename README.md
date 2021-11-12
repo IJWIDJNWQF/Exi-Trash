@@ -1,7 +1,7 @@
 # Exi-Trash
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Exi Hub", "GreenTheme")
+local Window = Library.CreateLib("Exi Hub", "DarkTheme")
 
 local Tab = Window:NewTab("Auto Fram")
 local Section = Tab:NewSection("Auto Fram")
